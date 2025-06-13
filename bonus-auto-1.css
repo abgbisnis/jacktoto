@@ -5,8 +5,9 @@
   gap: 0.4rem;
   font-size: 1rem;
   font-weight: bold;
-  border: 1px solid #bb0077;
-  background: #810051;
+  color: #fff;
+  border: 1px solid #bb0000;
+  background: #6f0000;
   border-radius: 0.3rem;
   padding: 0.5rem;
   text-transform: uppercase;
@@ -15,7 +16,7 @@
 
 .btn-tg-promosi:hover {
   cursor: pointer;
-  background: #60003d;
+  background: #4d0000;
 }
 
 .btn-tg-promosi img {
